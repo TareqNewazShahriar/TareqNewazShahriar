@@ -8,7 +8,7 @@ Hi, this is Tareq Newaz Shahriar
  
  Some facts about me
 - 🔭 I’m currently working on Javascript, Raspberry PI (and Pi Pico).
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and circuitry.
 - ⚡ Fun fact: coffee and Javascript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqNewazShahriar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
