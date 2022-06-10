@@ -5,7 +5,7 @@ Hi, this is Tareq Newaz Shahriar
 -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TareqNewazShahriar)
  
-Here some fact about me
+ some facts about me:
 - 🔭 I’m currently working on Raspberry Pi
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: coffee and Javascript.
