@@ -1,9 +1,9 @@
 Hi, this is Tareq Newaz Shahriar
 
 <!--
-**Saikat-S/Saikat-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TareqNewazShahriar/TareqNewazShahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TareqNewazShahriar)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TareqNewazShahriar)
  
 Here some fact about me
 - 🔭 I’m currently working on Raspberry Pi
@@ -12,4 +12,4 @@ Here some fact about me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqNewazShahriar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=TareqNewazShahriar)](https://github.com/anuraghazra/github-readme-stats)****
+[![Github stats](https://github-readme-stats.vercel.app/api?username=TareqNewazShahriar)](https://github.com/anuraghazra/github-readme-stats)
