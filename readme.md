@@ -1,7 +1,6 @@
 <!--
 **TareqNewazShahriar/TareqNewazShahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Facts
 - I’m currently working on Raspberry PI (and Pi Pico) 😎.
 - I’m currently learning Python and electronics 👣.
 - Fun fact: ☕ coffee  🙃 ʇdıɹɔsɐʌɐɾ  🏓 table tennis
