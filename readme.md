@@ -18,7 +18,7 @@
 * **Vue 3/2**:
 [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
 
-* **Algorithm and problem solving**: 
+* **Algorithm, problem solving**: 
 [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
 / [my-cpp-works-with-uva-problems-solution](https://github.com/TareqNewazShahriar/my-cpp-works-with-uva-problems-solution)
 / [programming-problem-solving](https://github.com/TareqNewazShahriar/programming-problem-solving)
