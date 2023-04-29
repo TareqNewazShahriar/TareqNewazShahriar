@@ -6,9 +6,9 @@
 
 #### Welcome to my repo
 * **IoT, Sensors, Raspberry PI**: 
-[whats-up-home-iot-machine-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app) (Node, python) 
+[whats-up-home-iot-machine-app (Node, python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
 / [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
-/ [pico-and-sensors](https://github.com/TareqNewazShahriar/pico-and-sensors) (Python)
+/ [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
 
 * **WebRTC**:
 [video-calling-messaging-with-webrtc](https://github.com/TareqNewazShahriar/video-calling-messaging-with-webrtc)
@@ -26,7 +26,7 @@
 [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
 / [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) (react native) 
 / [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide) 
-/ [state-retainer](https://github.com/TareqNewazShahriar/state-retainer) (SignarR) 
+/ [state-retainer (SignarR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 * **Object Helper tools**: generic-mapper / bulk-operation-using-csharp-reflection / deep-comparison [deprecated]
 
