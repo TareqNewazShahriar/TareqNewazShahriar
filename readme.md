@@ -6,7 +6,7 @@
 
 ### Welcome to My Repo
 
-* **IoT, Sensors, Raspberry PI**: 
+* **IoT, sensors, Raspberry PI**: 
 [whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
 / [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
 / [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
@@ -36,7 +36,7 @@
 / [node-starter-template](https://github.com/TareqNewazShahriar/node-starter-template)
 / [electronjs-contextisolation-template](https://github.com/TareqNewazShahriar/electronjs-contextisolation-template)
 
-* **Object Helper tools**: [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
+* **Object helper tools**: [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
 / [bulk-operation-using-csharp-reflection (C#)](https://github.com/TareqNewazShahriar/bulk-operation-using-csharp-reflection)
 / [deep-comparison (C#) [deprecated]](https://github.com/TareqNewazShahriar/deep-comparison)
 
