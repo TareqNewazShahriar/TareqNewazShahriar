@@ -29,10 +29,6 @@
 / [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
 / [state-retainer (SignarR)](https://github.com/TareqNewazShahriar/state-retainer)
 
-* **Object Helper tools**: [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
-/ [bulk-operation-using-csharp-reflection (C#)](https://github.com/TareqNewazShahriar/bulk-operation-using-csharp-reflection)
-/ [deep-comparison (C#) [deprecated]](https://github.com/TareqNewazShahriar/deep-comparison)
-
 * **Microsoft Congnitive Service**: [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
 * **Project starter templates**: [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
@@ -40,9 +36,10 @@
 / [node-starter-template](https://github.com/TareqNewazShahriar/node-starter-template)
 / [electronjs-contextisolation-template](https://github.com/TareqNewazShahriar/electronjs-contextisolation-template)
 
+* **Object Helper tools**: [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
+/ [bulk-operation-using-csharp-reflection (C#)](https://github.com/TareqNewazShahriar/bulk-operation-using-csharp-reflection)
+/ [deep-comparison (C#) [deprecated]](https://github.com/TareqNewazShahriar/deep-comparison)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqNewazShahriar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=TareqNewazShahriar)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TareqNewazShahriar) -->
