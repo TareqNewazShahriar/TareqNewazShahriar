@@ -25,8 +25,8 @@
 
 * **Open-source contribution, awareness**:
 [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
-/ [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) (react native) 
-/ [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide) 
+/ [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
+/ [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
 / [state-retainer (SignarR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 * **Object Helper tools**: [generic-mapper](https://github.com/TareqNewazShahriar/generic-mapper)
