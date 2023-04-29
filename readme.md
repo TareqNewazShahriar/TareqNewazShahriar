@@ -7,7 +7,7 @@
 ### Welcome to My Repo
 
 * **IoT, Sensors, Raspberry PI**: 
-[whats-up-home-iot-machine-app (Node, python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
+[whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
 / [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
 / [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
 
