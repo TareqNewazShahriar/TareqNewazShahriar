@@ -27,7 +27,7 @@
 [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
 / [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
 / [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
-/ [state-retainer (SignarR)](https://github.com/TareqNewazShahriar/state-retainer)
+/ [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 * **Microsoft Congnitive Service**: [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
