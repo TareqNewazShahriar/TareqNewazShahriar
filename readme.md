@@ -15,9 +15,6 @@
 [video-calling-messaging-with-webrtc](https://github.com/TareqNewazShahriar/video-calling-messaging-with-webrtc)
 / webrtc-module (private)
 
-* **Vue 3/2**:
-[whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
-
 * **Algorithm, problem solving**: 
 [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
 / [my-cpp-works-with-uva-problems-solution](https://github.com/TareqNewazShahriar/my-cpp-works-with-uva-problems-solution)
@@ -30,6 +27,9 @@
 / [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 * **Microsoft Congnitive Service**: [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
+
+* **Vue3**:
+[whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
 
 * **Project starter templates**: [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
 / [vue3-vuetify3-starter](https://github.com/TareqNewazShahriar/vue3-vuetify3-starter)
