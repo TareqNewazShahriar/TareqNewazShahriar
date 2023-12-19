@@ -9,6 +9,11 @@
 
  **My repos at a glance:**
 
+* **Algorithm, data structure, problem solving**: 
+[problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
+/ [my-cpp-works-with-uva-problems-solution](https://github.com/TareqNewazShahriar/my-cpp-works-with-uva-problems-solution)
+/ [programming-problem-solving](https://github.com/TareqNewazShahriar/programming-problem-solving)
+
 * **WebRTC**:
 [video-calling-messaging-with-webrtc](https://github.com/TareqNewazShahriar/video-calling-messaging-with-webrtc)
 / [webrtc-module (private)](https://github.com/TareqNewazShahriar/webrtc-module)
@@ -17,11 +22,6 @@
 [whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
 / [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
 / [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
-
-* **Algorithm, problem solving**: 
-[problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
-/ [my-cpp-works-with-uva-problems-solution](https://github.com/TareqNewazShahriar/my-cpp-works-with-uva-problems-solution)
-/ [programming-problem-solving](https://github.com/TareqNewazShahriar/programming-problem-solving)
 
 * **Open-source contribution, awareness**:
 [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
