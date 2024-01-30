@@ -9,7 +9,7 @@
 
  **My repos at a glance:**
 
-* **AI**:  
+* **AI**:
 [getting-started-with-openai](https://github.com/TareqNewazShahriar/getting-started-with-openai)
 
 * **Algorithm, data structure, problem solving**: 
