@@ -9,6 +9,9 @@
 
  **My repos at a glance:**
 
+* **AI**:  
+[getting-started-with-openai](https://github.com/TareqNewazShahriar/getting-started-with-openai)
+
 * **Algorithm, data structure, problem solving**: 
 [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
 / [my-cpp-works-with-uva-problems-solution](https://github.com/TareqNewazShahriar/my-cpp-works-with-uva-problems-solution)
