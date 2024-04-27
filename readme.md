@@ -12,7 +12,7 @@
 * **AI**:
 [getting-started-with-openai-api](https://github.com/TareqNewazShahriar/getting-started-with-openai)
 / [playing-around-with-gemini-ai-api](https://github.com/TareqNewazShahriar/playing-around-with-gemini-ai-api)  
-  * (actual implementation is a private repo)
+  * (actual implementation repo is private)
 
 * **Algorithm, data structure, problem solving**: 
 [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
