@@ -3,7 +3,7 @@
 -->
 ------
 
-☕ coffee | 🗡️ javascript | 🏓 sıuuǝʇ ǝlqɐʇ
+☕ coffee | 🗡️ javascript | 💫 astrophysics enthusiast
 
 -------
 
