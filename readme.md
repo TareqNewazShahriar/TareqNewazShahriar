@@ -25,11 +25,6 @@
 
 * **Image Processing**: [process-transparent-pixels](https://github.com/TareqNewazShahriar/process-transparent-pixels) [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
-* **IoT, sensors, Raspberry PI**: 
-[whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
-/ [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
-/ [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
-
 * **Open-source contribution, awareness**:
 [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
 / [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
@@ -39,15 +34,20 @@
 * **Vue3**:
 [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
 
-* **Project starter templates**: [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
-/ [vue3-vuetify3-starter](https://github.com/TareqNewazShahriar/vue3-vuetify3-starter)
-/ [node-starter-template](https://github.com/TareqNewazShahriar/node-starter-template)
-/ [electronjs-contextisolation-template](https://github.com/TareqNewazShahriar/electronjs-contextisolation-template)
-
 * **Object helper tools**: 
 [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
 / [bulk-operation-using-csharp-reflection (C#)](https://github.com/TareqNewazShahriar/bulk-operation-using-csharp-reflection)
 / [deep-comparison (C#) [deprecated]](https://github.com/TareqNewazShahriar/deep-comparison)
+
+* **IoT, sensors, Raspberry PI**: 
+[whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
+/ [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
+/ [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
+
+* **Project starter templates**: [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
+/ [vue3-vuetify3-starter](https://github.com/TareqNewazShahriar/vue3-vuetify3-starter)
+/ [node-starter-template](https://github.com/TareqNewazShahriar/node-starter-template)
+/ [electronjs-contextisolation-template](https://github.com/TareqNewazShahriar/electronjs-contextisolation-template)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqNewazShahriar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=TareqNewazShahriar)](https://github.com/anuraghazra/github-readme-stats)
