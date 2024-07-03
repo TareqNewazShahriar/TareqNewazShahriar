@@ -9,10 +9,10 @@
 
  **My repos at a glance:**
 
-* **AI**:
+* **AI/Cognitive Service**:
 [getting-started-with-openai-api](https://github.com/TareqNewazShahriar/getting-started-with-openai)
-/ [playing-around-with-gemini-ai-api](https://github.com/TareqNewazShahriar/playing-around-with-gemini-ai-api)  
-  * (actual implementation repo is private)
+/ [playing-around-with-gemini-ai-api](https://github.com/TareqNewazShahriar/playing-around-with-gemini-ai-api) *(actual implementation repo is private)
+/ [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
 * **Algorithm, data structure, problem solving**: 
 [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript) 
@@ -22,6 +22,8 @@
 * **WebRTC**:
 [video-calling-messaging-with-webrtc](https://github.com/TareqNewazShahriar/video-calling-messaging-with-webrtc)
 / [webrtc-module (private)](https://github.com/TareqNewazShahriar/webrtc-module)
+
+* **Image Processing**: [process-transparent-pixels](https://github.com/TareqNewazShahriar/process-transparent-pixels) [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
 * **IoT, sensors, Raspberry PI**: 
 [whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
@@ -33,9 +35,6 @@
 / [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
 / [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
 / [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
-
-* **Microsoft Congnitive Service**:
-[process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
 
 * **Vue3**:
 [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
