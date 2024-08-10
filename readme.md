@@ -9,6 +9,12 @@
 
 ## My repos at a glance
 
+### Open-source Contribution/Awareness
+  * [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
+  * [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
+  * [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
+  * [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
+
 ### AI/Cognitive Service
   * [getting-started-with-openai-api](https://github.com/TareqNewazShahriar/getting-started-with-openai)
   * [playing-around-with-gemini-ai-api](https://github.com/TareqNewazShahriar/playing-around-with-gemini-ai-api) *(actual implementation repo is private)
@@ -26,12 +32,6 @@
 ### Image Processing
   * [process-transparent-pixels](https://github.com/TareqNewazShahriar/process-transparent-pixels)
   * [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
-
-### Open-source Contribution/Awareness
-  * [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
-  * [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
-  * [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
-  * [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 ### Vue3
   * [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
