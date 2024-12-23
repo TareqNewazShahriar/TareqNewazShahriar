@@ -12,7 +12,6 @@
 ### Open-source Contribution/Awareness
   * [real-life-coding-mistakes](https://github.com/TareqNewazShahriar/real-life-coding-mistakes)
   * [zero-degree (react native)](https://github.com/TareqNewazShahriar/zero-degree)
-  * [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
   * [state-retainer (SignalR)](https://github.com/TareqNewazShahriar/state-retainer)
 
 ### AI/Cognitive Service
@@ -43,8 +42,9 @@
 
 ### IoT/Raspberry PIs/Sensors
   * [whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
-  * [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
+  * [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
   * [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
+  * [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
 
 ### Project Starter Templates
   * [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
