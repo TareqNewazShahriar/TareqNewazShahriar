@@ -26,25 +26,23 @@
 
 ### Audio/Video Calling:
   * [video-calling-messaging-with-webrtc](https://github.com/TareqNewazShahriar/video-calling-messaging-with-webrtc)
-  * [webrtc-module (private)](https://github.com/TareqNewazShahriar/webrtc-module)
+  * [webrtc-module](https://github.com/TareqNewazShahriar/webrtc-module) (private)
 
 ### Image Processing
-  * [process-transparent-pixels](https://github.com/TareqNewazShahriar/process-transparent-pixels)
-  * [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
+  * [process-transparent-pixels](https://github.com/TareqNewazShahriar/process-transparent-pixels) (made private, on Feb 2025)
 
 ### Vue3
-  * [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app)
+  * [whats-up-home-iot-web-app](https://github.com/TareqNewazShahriar/whats-up-home-iot-web-app) (Web app of **whats-up-home-iot-machine-app**)
 
 ### Object Helper Tools
   * [generic-mapper (C#)](https://github.com/TareqNewazShahriar/generic-mapper)
   * [bulk-operation-using-csharp-reflection (C#)](https://github.com/TareqNewazShahriar/bulk-operation-using-csharp-reflection)
   * [deep-comparison (C#) [deprecated]](https://github.com/TareqNewazShahriar/deep-comparison)
 
-### IoT/Raspberry PIs/Sensors
+### IoT/Raspberry-PI/Sensors
   * [whats-up-home-iot-machine-app (Node, Python)](https://github.com/TareqNewazShahriar/whats-up-home-iot-machine-app)
   * [raspberrypi-os-guide](https://github.com/TareqNewazShahriar/raspberrypi-os-guide)
   * [pico-and-sensors (Python)](https://github.com/TareqNewazShahriar/pico-and-sensors)
-  * [zero-degree](https://github.com/TareqNewazShahriar/zero-degree) 
 
 ### Project Starter Templates
   * [vue3-starter](https://github.com/TareqNewazShahriar/vue3-starter)
