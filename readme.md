@@ -17,7 +17,7 @@
 ### AI/Cognitive Service
   * [getting-started-with-openai-api](https://github.com/TareqNewazShahriar/getting-started-with-openai)
   * [playing-around-with-gemini-ai-api](https://github.com/TareqNewazShahriar/playing-around-with-gemini-ai-api) *(actual implementation repo is private)
-  * [process-image-with-cognitive-service](https://github.com/TareqNewazShahriar/process-image-with-cognitive-service)
+  * [analyze-image-with-cognitive-service](https://github.com/TareqNewazShahriar/analyze-image-with-cognitive-service)
 
 ### Algorithm/Data-structure/Problem solving
   * [problem-solving-with-javascript](https://github.com/TareqNewazShahriar/problem-solving-with-javascript)
